@@ -1,6 +1,1 @@
-![forthebadge](https://img.shields.io/badge/Made%20with-Java-red.svg)
-![img](https://img.shields.io/badge/Made%20By-DEBASISH%20SAHOO-red.svg)
-# Calculator
-## screenshot
-![screenshot](https://user-images.githubusercontent.com/33368759/34453352-c1134ac8-ed78-11e7-9912-4d71eec3a543.jpg)
-
+![image](https://user-images.githubusercontent.com/116998600/199802878-00b50b21-272c-47c6-8b87-71b2a0e48f59.png)
